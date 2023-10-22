@@ -5,5 +5,3 @@
 
 Youtube Link and QR
 https://youtu.be/ke48ZfIzkBI
-
-![image](https://github.com/DevSonseol/Unity3D_Portfolio/assets/50009582/9ae6ecb8-7173-4d89-b568-8a60e56141f7)
